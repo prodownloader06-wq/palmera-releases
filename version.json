@@ -1,0 +1,7 @@
+{
+    "version":  "0.1.9",
+    "build":  10,
+    "minBuild":  10,
+    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/main/palmera-pos.apk",
+    "notes":  "Perbaikan login kasir setelah Owner ganti PIN + update otomatis dari GitHub"
+}
