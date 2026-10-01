@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.9",
-    "build":  10,
-    "minBuild":  10,
+    "version":  "0.1.10",
+    "build":  11,
+    "minBuild":  11,
     "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/main/palmera-pos.apk",
-    "notes":  "Perbaikan login kasir setelah Owner ganti PIN + update otomatis dari GitHub"
+    "notes":  "Tes update otomatis. Cek update tiap 15 menit."
 }
