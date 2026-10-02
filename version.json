@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.10",
-    "build":  11,
-    "minBuild":  11,
-    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/main/palmera-pos.apk",
-    "notes":  "Tes update otomatis. Cek update tiap 15 menit."
+    "version":  "0.1.11",
+    "build":  12,
+    "minBuild":  12,
+    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/c6d292d12ced0e8fdae30a34ddedcb1de05f9792/palmera-pos.apk",
+    "notes":  "Tampilan update baru yang lebih rapi. Update langsung dicek saat aplikasi dibuka."
 }
