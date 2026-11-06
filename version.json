@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.11",
-    "build":  12,
-    "minBuild":  12,
-    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/c6d292d12ced0e8fdae30a34ddedcb1de05f9792/palmera-pos.apk",
-    "notes":  "Tampilan update baru yang lebih rapi. Update langsung dicek saat aplikasi dibuka."
+    "version":  "0.2.0",
+    "build":  13,
+    "minBuild":  0,
+    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/a8ffb55283af1e796f1c19efd58a346db4666a11/palmera-pos.apk",
+    "notes":  "Fitur Gudang (label QR bahan baku), tampilan baru dan font bawaan, login lebih interaktif, layar SERVE DOWN baru. APK lebih kecil."
 }
