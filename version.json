@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.3",
-    "build":  16,
-    "minBuild":  16,
-    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/74475189aa8dba9d18992cd9b0e853119205646c/palmera-pos.apk",
-    "notes":  "Tampilan baru: Laporan Owner dengan rincian pembayaran dan menu terlaris semua cabang, daftar Bon dengan tombol Lunasi, Kas keluar dengan papan angka sendiri, layar Tampilan Struk dan pratinjau struk lebih rapi."
+    "version":  "0.2.4",
+    "build":  17,
+    "minBuild":  17,
+    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/5cf4c1e7d668695e5a46a16d397d769498370fcb/palmera-pos.apk",
+    "notes":  "Akun petugas gudang dibuat dari menu Gudang (khusus Owner). Tombol terang/gelap ada di pojok kanan atas semua layar."
 }
