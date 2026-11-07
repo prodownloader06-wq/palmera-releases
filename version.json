@@ -1,7 +1,7 @@
-﻿{
-    "version":  "0.2.1",
-    "build":  14,
-    "minBuild":  14,
-    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/c403d0cedb640920dfce9f5ad0991bdc0c7cdeef/palmera-pos.apk",
-    "notes":  "Tampilan baru: logo di setiap menu utama, kartu dan tombol lebih besar, dialog Bayar lebih jelas, PIN kasir lebih besar, kerangka pemuatan, Laporan Owner bermerek, tombol cepat modal shift, bingkai scan berwarna."
+{
+    "version":  "0.2.2",
+    "build":  15,
+    "minBuild":  15,
+    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/d693b951dcd6e94d69fb40ecc59def5eb3f3d7c7/palmera-pos.apk",
+    "notes":  "Tampilan baru lanjutan: kartu angka hari ini di menu Admin, Riwayat pesanan lebih rapi, kerangka pemuatan di lebih banyak layar."
 }
