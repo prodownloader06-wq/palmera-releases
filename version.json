@@ -2,6 +2,6 @@
     "version":  "0.2.2",
     "build":  15,
     "minBuild":  15,
-    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/d693b951dcd6e94d69fb40ecc59def5eb3f3d7c7/palmera-pos.apk",
-    "notes":  "Tampilan baru lanjutan: kartu angka hari ini di menu Admin, Riwayat pesanan lebih rapi, kerangka pemuatan di lebih banyak layar."
+    "apkUrl":  "https://raw.githubusercontent.com/prodownloader06-wq/palmera-releases/77a0c6d88837da3275504d87546b0435de70bd1c/palmera-pos.apk",
+    "notes":  "Tampilan baru: beranda Owner di HP sesuai desain (salam, kartu omzet, tombol cepat, kartu per cabang), akun petugas gudang dari menu Pengguna, kartu angka hari ini di menu Admin, Riwayat lebih rapi, kerangka pemuatan di lebih banyak layar."
 }
